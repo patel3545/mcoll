@@ -1,1 +1,1 @@
-print("This is scratch")
+print("scratch")
